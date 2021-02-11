@@ -1,0 +1,41 @@
+ 
+    {
+        "posts": [
+   {
+   "id": 1,
+   "user": "Alexis Clark",
+   "content": "Lorem ipsum dolor sit amet, <b>consectetur adipiscing elit</b>. Integer eget fringilla justo, at posuere mauris. Donec egestas pharetra aliquam. Nullam vehicula metus nisl, vel ullamcorper libero varius vel. Integer bibendum placerat congue. Cras convallis semper hendrerit. Maecenas sed felis erat. Aenean sed maximus magna, vitae auctor lectus. Vestibulum suscipit mi purus. Nunc placerat ac mauris ut porttitor. Suspendisse potenti. Cras iaculis interdum elit.<br/> <br/> Duis a nunc vel arcu blandit porta pretium vehicula ipsum. <b><i>Mauris at cursus lacus</i></b>, eu finibus nisi. Etiam in ultricies leo. Suspendisse potenti. Donec hendrerit pretium ex at consectetur. Cras nec metus risus.<br/>",
+   "likes": 10,
+   "dislikes": 0,
+   "comments": [
+
+   {
+   "id": 2,
+   "user": "Lisa D",
+   "content": "lorem ipsum ndit porta pretium vehiculaipsum. Mauris at cursus",
+   "likes": 2,
+   "dislikes": 0
+   },
+   
+   
+   {
+   "id": 3,
+   "user": "Bobby Marz",
+   "content": "lorem ipsum ndit porta pretium vehicula ipsum Mauris at cursus, ndit porta pretium vehicula ipsum. Mauris at cursus",
+   
+   "likes": 0,
+   "dislikes": 0
+   },
+   
+   {
+   "id": 4,
+   "user": "Lucy Moon",
+   "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget fringilla justo, at posuere mauris. Nullam vehicula metus nisl, vel ullamcorper libero varius vel. Integer bibendum<br/>lacinia dictum. Cras nec metus risus.<br/>",
+   "likes": 0,
+   "dislikes": 0
+   }
+]
+   }
+   
+   ]
+}
